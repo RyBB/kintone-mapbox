@@ -48,4 +48,3 @@ Google Chrome Browser
 
 # ライセンス
 MIT
-# kintone-mapbox
