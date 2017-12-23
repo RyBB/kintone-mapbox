@@ -25,7 +25,7 @@ connpassからkintone関連のイベントを取得して、地図に表示し�
  - sample.csv(kintoneに読み込むイベントのサンプルデータ)
 
 # kintoneに設置するファイル群
-kintoneの設定画面で設置するファイルは以下です。[Cybozu CDN](https://developer.cybozu.io/hc/ja/articles/202960194)を利用しています。
+kintoneの設定画面で設置するファイルは以下です。[Cybozu CDN](https://developer.cybozu.io/hc/ja/articles/202960194)を利用しています。        
 ※アプリテンプレートを読み込むと、「map(要編集).js」ファイル以外は予め設置してあります。
 
 ## PC用のJavaScriptファイル
