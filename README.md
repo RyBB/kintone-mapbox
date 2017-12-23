@@ -12,7 +12,7 @@ connpassからkintone関連のイベントを取得して、地図に表示し�
 # 手順
 1. kintoneに「イベント管理(connpass & mapbox連携).zip」のアプリテンプレートをインポート
 2. テンプレートからアプリ作成
-3. 「map(要編集).js」の必要箇所を編集してkintoneの設定画面よりファイルをアップロード（詳細な手順は[こちら](https:// &lt;subdomainname&gt;.&lt;domain&gt;.com/k/admin/system/customize/)を参照）
+3. 「map(要編集).js」の必要箇所を編集してkintoneの設定画面よりファイルをアップロード（詳細な手順は[こちら](https://jp.cybozu.help/ja/k/user/js_customize.html)を参照）
 4. カレンダーボタンをクリックして、イベントデータ取得(取得データが少ない場合は「sample.csv」をインポートしても良い)
 
 # リポジトリのファイル群
