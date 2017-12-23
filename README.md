@@ -43,7 +43,7 @@ kintoneの設定画面で設置するファイルは以下です。[Cybozu CDN](
  - mapbox-gl.css(version: 0.42.0)
  - map.css
  
-# 動作確認
+# 動作環境
 Google Chrome Browser
 
 # ライセンス
