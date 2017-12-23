@@ -17,8 +17,8 @@ connpassからkintone関連のイベントを取得して、地図に表示し�
 
 # リポジトリのファイル群
 本リポジトリのファイル群は以下です。
+ - イベント管理(connpass & mapbox連携).zip（kintoneに読み込むアプリテンプレート
  - イベント管理(connpass & mapbox連携).zip
-  - kintoneに読み込むアプリテンプレート
  - map(要編集).js（kintoneに追加するJavaScriptファイル）
  - map.css(すでにkintoneに適用済みのCSSファイル)
  - dark_style.json(mapboxに読み込む地図のスタイル)
